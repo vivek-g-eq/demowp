@@ -1,0 +1,54 @@
+.cmbp-field-wrap .cmbp-field {
+	margin-bottom: 16px;
+}
+
+.cmbp-field-wrap .cmbp-field label strong {
+	display: block;
+	margin-bottom: 4px;
+}
+
+.cmbp-field-wrap img.cmbp-image-preview {
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 2px;
+	display: block;
+}
+
+#cmbp-fields-table td {
+	vertical-align: top;
+	padding: 8px;
+}
+
+#cmbp-fields-table .cmbp-remove-field {
+	color: #b32d2e;
+	font-weight: bold;
+}
+
+.cmbp-subfields-wrap {
+	padding: 12px;
+	background: #f6f7f7;
+	border: 1px solid #dcdcde;
+	border-radius: 4px;
+	margin: 4px 0 12px;
+}
+
+.cmbp-subfields-wrap .cmbp-subfields-table td {
+	padding: 6px;
+}
+
+.cmbp-repeater-table {
+	margin-bottom: 8px;
+}
+
+.cmbp-repeater-table td,
+.cmbp-repeater-table th {
+	padding: 8px;
+	vertical-align: top;
+}
+
+.cmbp-remove-repeater-row,
+.cmbp-remove-subfield {
+	color: #b32d2e;
+	font-weight: bold;
+}
+

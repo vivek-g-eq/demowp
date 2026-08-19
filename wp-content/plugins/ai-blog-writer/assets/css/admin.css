@@ -1,0 +1,26 @@
+/**
+ * AI Blog Writer - admin styles.
+ */
+
+.aibw-wrap {
+	max-width: 900px;
+}
+
+.aibw-wrap .form-table th {
+	width: 200px;
+}
+
+.aibw-form .notice {
+	margin: 15px 0;
+}
+
+#aibw-spinner {
+	float: none;
+	margin: 4px 0 0 8px;
+	visibility: hidden;
+	display: inline-block;
+}
+
+#aibw-spinner.is-active {
+	visibility: visible;
+}
